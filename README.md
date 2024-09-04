@@ -57,7 +57,7 @@ To get a local copy up and running, follow these simple steps.
 
 ## URL
 
-[url] (http://localhost:8000)
+[url] (https://rest-api-cc13.onrender.com)
 
 ## Usage
 
